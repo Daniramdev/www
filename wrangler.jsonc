@@ -1,0 +1,8 @@
+{
+  "name": "dani", // Ganti dengan nama proyekmu
+  "compatibility_date": "2026-11-02", // Gunakan tanggal hari ini
+  "assets": {
+    "directory": "./dist", // Folder hasil build Vite
+    "not_found_handling": "single-page-application" // Penting untuk React Router
+  }
+}
