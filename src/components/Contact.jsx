@@ -45,10 +45,10 @@ export default function Contact() {
         </a>
 
         <div className={`contact-links reveal d3 ${inCls}`}>
-          <a href="#">GitHub ↗</a>
-          <a href="#">LinkedIn ↗</a>
-          <a href="#">Read.cv ↗</a>
-          <a href="#">Instagram ↗</a>
+          <a href="https://github.com/Daniramdev">GitHub ↗</a>
+          <a href="https://www.linkedin.com/in/danird/">LinkedIn ↗</a>
+          <a href="https://read.cv/danird">Read.cv ↗</a>
+          <a href="https://www.instagram.com/_danird8/">Instagram ↗</a>
         </div>
         <div className={`contact-seal reveal d3 ${inCls}`}>暖</div>
       </div>
